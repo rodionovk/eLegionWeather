@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="city">Город</string>
+    <string name="description">описание</string>
+    <string name="temp">Температура</string>
+    <string name="value">Значение</string>
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="pressure">Атмосферное давление</string>
+    <string name="humidity">Влажность</string>
+    <string name="clouds">Облачность</string>
+    <string name="wind_rose">Направление ветра</string>
+
+    <string name="add_city">Добавить город</string>
+    <string name="delete">Удаление</string>
+    <string name="delete_record">Удалить запись</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+
+    <string name="city_not_found">Город не найден</string>
+    <string name="city_name_empty">Введите название города</string>
+    <string name="city_name">Название города</string>
+
+    <string name="error_connection">Ошибка соединения с сервером</string>
+
+    <string name="transition_city">city</string>
+    <string name="transition_info">info</string>
+    <string name="transition_temp">temp</string>
+    <string name="transition_icon">icon</string>
+
+</resources>
